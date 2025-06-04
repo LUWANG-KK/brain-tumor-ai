@@ -15,7 +15,18 @@ This project is part of my 3-month summer research on AI for medical imaging.
 
 ## 📸 Sample Visualizations
 
-![Example MRI Visualization](notebooks/example_images.png)
+#### Glioma MRI
+<img src="data/01image/Tr-gl_0979.jpg" width="200">
+
+#### Meningioma MRI
+<img src="data/01image/Tr-me_0367.jpg" width="200">
+
+#### Pituitary MRI
+<img src="data/01image/Tr-pi_0650.jpg" width="200">
+
+#### No Tumor MRI
+<img src="data/01image/Tr-no_0057.jpg" width="200">
+
 
 
 ## 🛠️ Tech Stack
