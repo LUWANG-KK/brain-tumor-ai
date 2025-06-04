@@ -15,17 +15,20 @@ This project is part of my 3-month summer research on AI for medical imaging.
 
 ## 📸 Sample Visualizations
 
-#### Glioma MRI
-<img src="data/01image/Tr-gl_0979.jpg" width="200">
-
-#### Meningioma MRI
-<img src="data/01image/Tr-me_0367.jpg" width="200">
-
-#### Pituitary MRI
-<img src="data/01image/Tr-pi_0650.jpg" width="200">
-
-#### No Tumor MRI
-<img src="data/01image/Tr-no_0057.jpg" width="200">
+<table>
+  <tr>
+    <td><b>Glioma</b></td>
+    <td><b>Meningioma</b></td>
+    <td><b>Pituitary</b></td>
+    <td><b>No Tumor</b></td>
+  </tr>
+  <tr>
+    <td><img src="data/01image/Tr-gl_0979.jpg" width="150"/></td>
+    <td><img src="data/01image/Tr-me_0367.jpg" width="150"/></td>
+    <td><img src="data/01image/Tr-pi_0650.jpg" width="150"/></td>
+    <td><img src="data/01image/Tr-no_0057.jpg" width="150"/></td>
+  </tr>
+</table>
 
 
 
@@ -36,6 +39,14 @@ This project is part of my 3-month summer research on AI for medical imaging.
 - Dataset Management via OS module
 
 ## 📁 Project Structure
+
+- `notebooks/` – Jupyter notebooks for each stage (currently Day 1)
+- `data/` – Sample MRI images for visualization
+- `models/` – (empty) Placeholder for trained models
+- `reports/` – (empty) For future analysis outputs
+- `README.md` – Project overview and progress
+- `requirements.txt` – Dependencies (minimal)
+
 
 
 
